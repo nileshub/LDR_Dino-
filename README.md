@@ -7,3 +7,15 @@ Automated script with detection of cacti bushes via LDR and arduino and making j
 Requirements:
 1.An Arduino 
 2.LDR
+
+
+
+
+
+
+
+
+
+
+
+please comment if you want a full tutorial or reach out to me at Nileshgw245@gmail.com
